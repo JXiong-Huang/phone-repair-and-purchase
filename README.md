@@ -1,15 +1,14 @@
-# phone-repair-and-purchase
+## Quick Start
 
-This project is to create a website providing customers with door-to-door repair service for therir faulty mobile phones as well as selling premium pre-owned phones online.
+Run the following commands:
 
-Visitors can browse the pages with different functions.
+```
+npm install
+npm start
+```
 
-Home page is the starting point where customers can have a big picture of what services they can access.
+This will install dependencies, then start the app and mock API.
 
-On-Site Repair page allows customers to book in a repair for their faulty eletronic devices by choosing a porper time and spot.
+## Starter Project Overview
 
-Pre-Owned Phones page displays all the products in stock in detail and by setting a Add to cart button it enables customers to order online.
-
-Your Order page is where customers can see all the orders they have but yet to pay. They can modify the number of product they are going to purchase, see the cost and proceed to checkout if they have finished shopping.
-
-About Us page is the introduction of our company.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
